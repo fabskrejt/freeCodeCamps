@@ -1,5 +1,6 @@
 // Setup
-var lastName = "Lovelace";
+var myStr = "Jello World";
 
 // Only change code below this line
-var thirdLetterOfLastName = lastName; // Change this line
+myStr[0] = "Hello World"; // Change this line
+// Only change code above this line
